@@ -24,4 +24,6 @@ The password can include special characters. If you’re unfamiliar with these, 
  * Code should validate for each input and at least one character type should be selected
  * Once prompts are answered then the password should be generated and displayed in an alert or written to the page
 
+### Website 
 
+<a href="https://sinthiya1.github.io/Password-Generator-Site/"> Password Generator Site</a>
