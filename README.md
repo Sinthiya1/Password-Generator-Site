@@ -13,7 +13,7 @@ The password can include special characters. If you’re unfamiliar with these, 
 ### Instruction followed:
 
 * Generate a password when the button is clicked
-  * Present a series of prompts for password criteria
+* Present a series of prompts for password criteria
     * Length of password
      * At least 10 characters but no more than 64.
     * Character types
@@ -21,7 +21,7 @@ The password can include special characters. If you’re unfamiliar with these, 
       * Uppercase
       * Numeric
       * Special characters ($@%&*, etc)
-  * Code should validate for each input and at least one character type should be selected
-  * Once prompts are answered then the password should be generated and displayed in an alert or written to the page
+ * Code should validate for each input and at least one character type should be selected
+ * Once prompts are answered then the password should be generated and displayed in an alert or written to the page
 
 
